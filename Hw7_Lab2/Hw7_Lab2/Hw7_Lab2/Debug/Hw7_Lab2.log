@@ -1,0 +1,14 @@
+﻿  Main.c
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(19): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(25): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(44): warning C4129: 'c': 無法辨識的字元逸出序列
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(50): warning C4477: 'printf' : 格式字串 '%-6d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'char *'
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(50): warning C4477: 'printf' : 格式字串 '%10.2f' 需要 'double' 類型的引數，但 variadic 引數 4 的類型為 'char *'
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(25): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(34): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(1197): note: 請參閱 'fscanf' 的宣告
+c:\users\user\desktop\c\hw7_lab2\hw7_lab2\hw7_lab2\main.c(44): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
